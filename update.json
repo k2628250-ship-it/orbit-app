@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/ВАС/orbit-app/releases/download/v1.0.1/Orbit-1.0.1-win-x64.exe",
-  "sha256": "d4392fd15ab9082e06941779f43f5f17c2554afdb79f85d5225581b31981e042",
-  "notes": "Пластинка и слова песни при реальном звуке, капсула со словами, автообновление"
+    "version":  "1.0.2",
+    "url":  "https://github.com/k2628250-ship-it/orbit-app/releases/download/v1.0.2/Orbit-1.0.2-win-x64.exe",
+    "sha256":  "faddd18207224331349218bd24e0d227b23372809c3dafded2ba6b75acfc6bc1",
+    "notes":  "Слова и пластинка только при реальном звуке; динамический каталог приложений"
 }
