@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/k2628250-ship-it/orbit-app/releases/download/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0_1.0.3/Orbit-1.0.3-win-x64.exe",
-  "sha256": "53c93bb79b6aed77577d372ddba475654090f3a2e3ec856c4431d3b87718a98e",
-  "notes": "Яндекс.Музыка: трек находится среди всех SMTC-сессий и по заголовку окна; слова и пластинка только при реальном звуке"
+  "version": "1.0.4",
+  "url": "https://github.com/k2628250-ship-it/orbit-app/releases/download/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0_1.0.4/Orbit-1.0.4-win-x64.exe",
+  "sha256": "c9daefee893291967606f6256337abee2317d71cbb5a6787055f4e4a7c78554f",
+  "notes": "Яндекс.Музыка: активная аудиосессия, все SMTC-сессии и заголовок окна; пластинка и слова только при реальном звуке"
 }
